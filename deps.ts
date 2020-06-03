@@ -1,7 +1,7 @@
 export {
   Application,
   Context,
-  Middleware,
+  Router,
 } from "https://deno.land/x/oak@v4.0.0/mod.ts";
 
 // @deno-types="https://deno.land/x/types/react/v16.13.1/react.d.ts"
